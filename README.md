@@ -1,5 +1,5 @@
 # Pentaque-3DGame
-An approch to the pentaque game made with OpenGL.
+An approach to the pentaque game made with OpenGL.
 
 ## Table of Contents
 * [General Info](#general-information)
